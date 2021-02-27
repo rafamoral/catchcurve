@@ -7,4 +7,4 @@ Files Mainguy_Moral_full_model_simulations.R and Mainguy_Moral_split_simulations
 
 File Mainguy_Moral_model_fitting.R obtains the model fits for every model and dataset on the paper.
 
-File Mainguy_Moral_simulation_study.R reproduces the simulation studies on the paper.
+File Mainguy_Moral_simulation_study_n100.R reproduces the simulation studies in the paper.
